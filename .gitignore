@@ -1,4 +1,9 @@
-.env
+# Python
 __pycache__/
-*.pdf
-vectorstore/
+*.py[cod]
+*$py.class
+.env
+
+# Local data
+documents/
+faiss_index/
